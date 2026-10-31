@@ -1,0 +1,6 @@
+sqlglot
+streamlit
+pandas
+groq
+python-dotenv
+pytest
